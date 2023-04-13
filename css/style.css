@@ -1,0 +1,37 @@
+/*Developed by: Remsey Mailjard*/
+/*targeting the Body  element by it's TAG name body*/
+
+* {
+    /*color: white;*/
+}
+
+body {
+    background-color: black;
+    background-image: linear-gradient(rgba(0, 0, 0, 40%), rgba(0, 0, 0, 20%)),
+                         url('../images/netflixBG.jpg');
+    background-size: cover;
+    color: #FF21BD;
+}
+
+/*targeting the H1 element by it's TAG name h1*/
+h1 {
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+/*targeting the link (a) element by it's TAG name a*/
+a {
+    color: red;
+    text-decoration: none;
+}
+
+#links {
+    font-size: 30px;
+    text-align: center;
+}
+
+#logo {
+    color: red;
+}
